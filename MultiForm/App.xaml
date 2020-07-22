@@ -1,0 +1,23 @@
+﻿<Application x:Class="MultiForm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MultiForm"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ImageBrush x:Key="WindowBackgroungImage" ImageSource="background_image.png" Stretch="UniformToFill"/>
+        
+        <Style TargetType="Window">
+            <Setter Property="Background" Value="{StaticResource WindowBackgroungImage}"/>
+        </Style>
+        
+        <Style TargetType="{x:Type local:MainWindow}"
+               BasedOn="{StaticResource {x:Type Window}}"/>
+        
+        <Style TargetType="{x:Type local:EmployeeWindow}"
+               BasedOn="{StaticResource {x:Type Window}}"/>
+
+        <Style TargetType="{x:Type local:InsertEmployee}"
+               BasedOn="{StaticResource {x:Type Window}}"/>
+
+    </Application.Resources>
+</Application>

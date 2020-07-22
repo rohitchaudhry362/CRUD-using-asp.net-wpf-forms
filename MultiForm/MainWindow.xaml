@@ -1,0 +1,63 @@
+﻿<Window x:Class="MultiForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiForm"
+        mc:Ignorable="d"
+        Title="Employee Information" Height="350" Width="600" ResizeMode ="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!--grid for titles-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="Name" FontWeight="DemiBold" HorizontalContentAlignment="Center"/>
+            <Label Grid.Column="1" Content="Position" FontWeight="DemiBold" HorizontalContentAlignment="Center"/>
+            <Label Grid.Column="2" Content="Hourly Pay Rate" FontWeight="DemiBold" HorizontalContentAlignment="Center"/>
+        </Grid>
+        
+        <!--listbox for employee data-->
+        <ListBox Grid.Row="1" Margin="10" ItemsSource="{Binding Employees}" SelectedItem="{Binding SelectedEmployee}" 
+                 HorizontalContentAlignment="Stretch" Background="Transparent">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Content="{Binding name}" FontWeight="DemiBold"
+                               BorderThickness="0 0 0 1" BorderBrush="Black" HorizontalContentAlignment="Center"/>
+                        <Label Grid.Column="1" Content="{Binding position}" FontWeight="DemiBold" 
+                               BorderThickness="0 0 0 1" BorderBrush="Black" HorizontalContentAlignment="Center"/>
+                        <Label Grid.Column="2" Content="{Binding hourly_pay_rate}" FontWeight="DemiBold"
+                               BorderThickness="0 0 0 1" BorderBrush="Black" HorizontalContentAlignment="Center"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        
+        <!--StackPanel for buttons-->
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <!--Insert Button-->
+            <Button Content="Insert" Margin="70 5" Width="50" Name="Insert" Click="Insert_Click" 
+                    BorderBrush="Black" BorderThickness="2" FontWeight="DemiBold"/>
+            <!--Update Button-->
+            <Button Content="Update" Margin="70 5" Width="50" Name="Update" Click="Update_Click" 
+                    BorderBrush="Black" BorderThickness="2" FontWeight="DemiBold"/>
+            <!--Delete Button-->
+            <Button Content="Delete" Margin="70 5" Width="50" Name="Delete" Click="Delete_Click" 
+                    BorderBrush="Black" BorderThickness="2" FontWeight="DemiBold"/>
+        </StackPanel>
+    </Grid>
+</Window>

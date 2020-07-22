@@ -1,0 +1,41 @@
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.csprojAssemblyReference.cache
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MainWindow.g.cs
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\App.g.cs
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm_MarkupCompile.cache
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm_MarkupCompile.lref
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MainWindow.baml
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.g.resources
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\EmployeeWindow.g.cs
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\EmployeeWindow.baml
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\App.baml
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\InsertEmployee.g.cs
+F:\Computer Application Development\Software development\projects\MultiForm\MultiForm\obj\Debug\InsertEmployee.baml
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.csprojAssemblyReference.cache
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\EmployeeWindow.g.cs
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\InsertEmployee.g.cs
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MainWindow.g.cs
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\App.g.cs
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm_MarkupCompile.cache
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm_MarkupCompile.lref
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\App.baml
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\EmployeeWindow.baml
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\InsertEmployee.baml
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MainWindow.baml
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.g.resources
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
+F:\Computer Application Development\Software development\downloaded self projects\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
